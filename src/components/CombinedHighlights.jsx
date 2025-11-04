@@ -10,7 +10,7 @@ const teamMembers = [
     bio:
       'An Aeronautical Engineer with multidisciplinary expertise across aerospace, battery technology, and advanced materials. With over 5 years of hands-on experience in battery innovation and space technology, Karthikesh leads Hyosene Battery Pvt. Ltd. with a mission to redefine sustainable energy systems.',
     keyHighlights: ['5+ years in battery innovation', 'Judge at national hackathons', 'Space technology background'],
-    image: 'https://images.unsplash.com/photo-1607746882042-944635dfe10e?q=80&w=512&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1519345182560-3f2917c472ef?auto=format&fit=crop&w=512&q=80',
     socials: { linkedin: '', twitter: '', email: '' },
     roleColor: '#28A745',
   },
@@ -23,7 +23,7 @@ const teamMembers = [
     bio:
       'Specialist in graphene-based and lithium-derived batteries, leading R&D in advanced cell chemistry and scalable manufacturing readiness for aerospace-grade applications.',
     keyHighlights: ['Graphene & lithium expertise', 'Prototype to pilot-lines'],
-    image: 'https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=512&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=512&q=80',
     socials: { linkedin: '', twitter: '', email: '' },
     roleColor: '#2563EB',
   },
@@ -36,7 +36,7 @@ const teamMembers = [
     bio:
       'Expert in thermal management and structural analysis with a strong finance background, ensuring both performance and sustainability of operations.',
     keyHighlights: ['Thermal & structural analysis', 'Financial strategy'],
-    image: 'https://images.unsplash.com/photo-1557862921-37829c790f19?q=80&w=512&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=512&q=80',
     socials: { linkedin: '', twitter: '', email: '' },
     roleColor: '#14B8A6',
   },
@@ -49,7 +49,7 @@ const teamMembers = [
     bio:
       'Hands-on leader in EV and drone power electronics with deep experience in BMS design and testing for reliable, high-performance systems.',
     keyHighlights: ['EV & drone power electronics', 'BMS design'],
-    image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=512&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1527980965255-d3b416303d12?auto=format&fit=crop&w=512&q=80',
     socials: { linkedin: '', twitter: '', email: '' },
     roleColor: '#F59E0B',
   },
@@ -62,7 +62,7 @@ const teamMembers = [
     bio:
       'Leads AI-driven battery monitoring and predictive analytics while safeguarding digital infrastructure across R&D and operations.',
     keyHighlights: ['Machine learning for batteries', 'Cybersecurity'],
-    image: 'https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=512&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&w=512&q=80',
     socials: { linkedin: '', twitter: '', email: '' },
     roleColor: '#7C3AED',
   },
